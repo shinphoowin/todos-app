@@ -53,7 +53,9 @@ const Todo = ({ todo, dispatch }) => {
                 })
               }
             ></i>
-            <label>{todo.name}</label>
+            <label className={todo.completed ? "taskDone" : ""}>
+              {todo.name}
+            </label>
           </div>
           &nbsp;&nbsp;
           <div className="forcemovetoRight">

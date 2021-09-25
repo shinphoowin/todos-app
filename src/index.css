@@ -61,4 +61,8 @@ h1.center.ui.header:first-child {
   margin-top: -37px !important;
   font-size: 17px !important;
 }
+.taskDone {
+  text-decoration: line-through;
+  color: #aaa;
+}
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
