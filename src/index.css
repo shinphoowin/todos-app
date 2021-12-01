@@ -11,8 +11,9 @@ code {
     monospace;
 }
 .container {
-  width: 620px;
+  width: 100%;
   margin: auto;
+  max-width: 620px;
 }
 .fullWidth {
   width: 100%;
@@ -64,5 +65,10 @@ h1.center.ui.header:first-child {
 .taskDone {
   text-decoration: line-through;
   color: #aaa;
+}
+@media only screen and (max-width: 767px) {
+}
+.ui.steps:not(.unstackable) .step {
+  flex-direction: initial;
 }
 @import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
