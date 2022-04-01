@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/todos-app/static/css/main.70aacbd4.chunk.css",
-    "main.js": "/todos-app/static/js/main.2a053ed2.chunk.js",
-    "main.js.map": "/todos-app/static/js/main.2a053ed2.chunk.js.map",
+    "main.css": "/todos-app/static/css/main.067d0343.chunk.css",
+    "main.js": "/todos-app/static/js/main.29df984b.chunk.js",
+    "main.js.map": "/todos-app/static/js/main.29df984b.chunk.js.map",
     "runtime-main.js": "/todos-app/static/js/runtime-main.4290b436.js",
     "runtime-main.js.map": "/todos-app/static/js/runtime-main.4290b436.js.map",
     "static/css/2.d6f1e717.chunk.css": "/todos-app/static/css/2.d6f1e717.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.b662304e.chunk.js.map": "/todos-app/static/js/3.b662304e.chunk.js.map",
     "index.html": "/todos-app/index.html",
     "static/css/2.d6f1e717.chunk.css.map": "/todos-app/static/css/2.d6f1e717.chunk.css.map",
-    "static/css/main.70aacbd4.chunk.css.map": "/todos-app/static/css/main.70aacbd4.chunk.css.map",
+    "static/css/main.067d0343.chunk.css.map": "/todos-app/static/css/main.067d0343.chunk.css.map",
     "static/js/2.a87cc187.chunk.js.LICENSE.txt": "/todos-app/static/js/2.a87cc187.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/todos-app/static/media/outline-icons.ddae9b1b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.4290b436.js",
     "static/css/2.d6f1e717.chunk.css",
     "static/js/2.a87cc187.chunk.js",
-    "static/css/main.70aacbd4.chunk.css",
-    "static/js/main.2a053ed2.chunk.js"
+    "static/css/main.067d0343.chunk.css",
+    "static/js/main.29df984b.chunk.js"
   ]
 }
